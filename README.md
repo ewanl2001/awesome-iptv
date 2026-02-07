@@ -169,6 +169,7 @@ Applications with support of IPTV streams.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=iphone) - Smart and intuitive media hub designed to centralize your personal video collections.
 - [UHF](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=iphone) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
 - [KDTIVI](https://apps.apple.com/gb/app/kdtivi-iptv-plex-and-emby/id6754769190?platform=iphone) - IPTV, Plex and Emby all-in-one app, designed to look and work like an app from a real media provider.
+- [TivEPG](https://apps.apple.com/gb/app/tivepg-iptv-player-sports-hub/id6755161632) - IPTV player and sports hub. In play stats, scores, lineups alongside your channels
 
 #### iPad
 
@@ -188,6 +189,7 @@ Applications with support of IPTV streams.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=ipad) - Smart and intuitive media hub designed to centralize your personal video collections.
 - [UHF](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=ipad) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
 - [KDTIVI](https://apps.apple.com/gb/app/kdtivi-iptv-plex-and-emby/id6754769190?platform=ipad) - IPTV, Plex and Emby all-in-one app, designed to look and work like an app from a real media provider.
+- [TivEPG](https://apps.apple.com/gb/app/tivepg-iptv-player-sports-hub/id6755161632) - IPTV player and sports hub. In play stats, scores, lineups alongside your channels
 
 #### Apple Watch
 
@@ -206,6 +208,7 @@ Applications with support of IPTV streams.
 - [UHF](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=appleTV) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
 - [IPTVX](https://apps.apple.com/in/app/iptvx/id1451470024?platform=appleTV) - An IPTV player with the pre 2025 Netflix feel.
 - [KDTIVI](https://apps.apple.com/gb/app/kdtivi-iptv-plex-and-emby/id6754769190?platform=tv) - IPTV, Plex and Emby all-in-one app, designed to look and work like an app from a real media provider.
+- [TivEPG](https://apps.apple.com/gb/app/tivepg-iptv-player-sports-hub/id6755161632) - IPTV player and sports hub. In play stats, scores, lineups alongside your channels 
 
 #### Smart TV
 
